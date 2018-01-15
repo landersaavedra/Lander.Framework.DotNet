@@ -1,0 +1,1 @@
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\obj\Debug\Lander.Framework.DotNet.SqlProvider.csproj.CoreCompileInputs.cache

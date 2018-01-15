@@ -1,0 +1,5 @@
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.Exceptions\bin\Debug\Lander.Framework.DotNet.Exceptions.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.Exceptions\bin\Debug\Lander.Framework.DotNet.Exceptions.pdb
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.Exceptions\obj\Debug\Lander.Framework.DotNet.Exceptions.csproj.CoreCompileInputs.cache
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.Exceptions\obj\Debug\Lander.Framework.DotNet.Exceptions.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.Exceptions\obj\Debug\Lander.Framework.DotNet.Exceptions.pdb

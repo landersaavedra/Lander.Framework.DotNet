@@ -1,0 +1,11 @@
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\obj\Release\Lander.Framework.DotNet.SqlProvider.csprojResolveAssemblyReference.cache
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\obj\Release\Lander.Framework.DotNet.SqlProvider.csproj.CoreCompileInputs.cache
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\bin\Release\Lander.Framework.DotNet.SqlProvider.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\bin\Release\Lander.Framework.DotNet.SqlProvider.pdb
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\bin\Release\Lander.Framework.DotNet.Exceptions.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\bin\Release\Lander.Framework.DotNet.Log.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\bin\Release\log4net.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\bin\Release\Lander.Framework.DotNet.Exceptions.pdb
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\bin\Release\Lander.Framework.DotNet.Log.pdb
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\obj\Release\Lander.Framework.DotNet.SqlProvider.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framework.DotNet.SqlProvider\obj\Release\Lander.Framework.DotNet.SqlProvider.pdb

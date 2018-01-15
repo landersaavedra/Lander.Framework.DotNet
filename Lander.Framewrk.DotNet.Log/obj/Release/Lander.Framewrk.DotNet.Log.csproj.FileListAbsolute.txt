@@ -1,0 +1,6 @@
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framewrk.DotNet.Log\bin\Release\Lander.Framewrk.DotNet.Log.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framewrk.DotNet.Log\bin\Release\Lander.Framewrk.DotNet.Log.pdb
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framewrk.DotNet.Log\bin\Release\log4net.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framewrk.DotNet.Log\obj\Release\Lander.Framewrk.DotNet.Log.csproj.CoreCompileInputs.cache
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framewrk.DotNet.Log\obj\Release\Lander.Framewrk.DotNet.Log.dll
+c:\users\lander\source\repos\Lander.Framework.DotNet\Lander.Framewrk.DotNet.Log\obj\Release\Lander.Framewrk.DotNet.Log.pdb
